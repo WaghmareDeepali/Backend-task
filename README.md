@@ -66,16 +66,17 @@ This project provides endpoints for user registration, retrieval of user details
 
 ## Setup
 
-To run the project locally, follow these steps:
+***To run the project locally, follow these steps:***
 
-1.clone the repository.
-2.create env
-3.activate env 
-4.install requirement.txt file
-5.go to the UserAuth folder
-6.python manage.py makemigrations
-7.python manage.py migrate
-8.python manage.py runserver
+1. clone the repository.
+2. Go to the Backend-task folder
+3. Install requirements.txt file
+4. Go to the UserAuth folder
+5. python manage.py makemigrations
+6. python manage.py migrate
+7. python manage.py runserver
+
+
 🚀 Happy coding!
 
 
